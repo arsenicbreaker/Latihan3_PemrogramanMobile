@@ -6,19 +6,19 @@ Tugas **Pemrograman Aplikasi Mobile — Pertemuan 3**
 
 ### 01. Push & Pop — Beranda dan Tentang
 
-[▶ Lihat video latihan Push & Pop](lib/proof_of_work/01.mp4)
+[▶ Lihat video latihan Push & Pop](https://github.com/arsenicbreaker/Latihan3_PemrogramanMobile/blob/main/lib/proof_of_work/01.mp4)
 
 ### 02. Kirim Data — Daftar dan Detail Produk
 
-[▶ Lihat video latihan Kirim Data](lib/proof_of_work/02.mp4)
+[▶ Lihat video latihan Kirim Data](https://github.com/arsenicbreaker/Latihan3_PemrogramanMobile/blob/main/lib/proof_of_work/02.mp4)
 
 ### 03. Named Routes — Tiga Halaman dan Argumen
 
-[▶ Lihat video latihan Named Routes](lib/proof_of_work/03.mp4)
+[▶ Lihat video latihan Named Routes](https://github.com/arsenicbreaker/Latihan3_PemrogramanMobile/blob/main/lib/proof_of_work/03.mp4)
 
 ### Bonus. BottomNavigationBar — Beranda, Cari, dan Profil
 
-[▶ Lihat video bonus BottomNavigationBar](lib/proof_of_work/bonus.mp4)
+[▶ Lihat video bonus BottomNavigationBar](https://github.com/arsenicbreaker/Latihan3_PemrogramanMobile/blob/main/lib/proof_of_work/bonus.mp4)
 
 <!--
 Agar MP4 tampil sebagai video player langsung di README GitHub:
