@@ -17,9 +17,6 @@ https://github.com/user-attachments/assets/6dfba88a-fd8b-4d47-99d6-9047f4562045
 https://github.com/user-attachments/assets/08e8468a-65e1-405e-908a-0a968d0264c1
 
 
-[▶ Lihat video bonus BottomNavigationBar]
-
-
 ## Struktur Folder
 
 ```text
